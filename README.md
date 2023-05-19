@@ -1,9 +1,8 @@
-<h1 align="center">Hi 👋, I'm Murodjon</h1>
+[![MasterHead](https://camo.githubusercontent.com/f6a2c625bbd9c52c6847d8368066acb566beb36e08b157577a34d070d03078bf/68747470733a2f2f692e696d6775722e636f6d2f7051574937676e2e676966)](https://github.com/turgunov24)
+<h1 align="center" style="padding:100px 0px">Hi There 👋, I'm Murodjon</h1>
 <h3 align="center">A passionate frontend developer from Uzbekistan</h3>
+<img align="right" style="" alt="Coding" width="350" src="https://media.tenor.com/ERNDGSh_C00AAAAM/cloudy-with-achance-of-meatballs.gif" />
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=turgunov24&label=Profile%20views&color=0e75b6&style=flat" alt="turgunov24" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=turgunov24" alt="turgunov24" /></a> </p>
 
 - 🌱 I’m currently learning **Typescript,Nextjs**
 
@@ -11,7 +10,7 @@
 
 - 📫 How to reach me **socialmedia.turgunov@gmail.com**
 
-- ⚡ Fun fact **I know I'm not funny**
+- ⚡ Fun fact **I Think ... **
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
